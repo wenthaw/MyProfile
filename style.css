@@ -1,0 +1,32 @@
+.nav-link{
+    color: white;
+}
+.rounded-circle{
+    widows: 150px;
+    height:150px;
+}
+#skills{
+    background-color: cornflowerblue;
+    color: black;
+}
+
+#education{
+    background-color:blueviolet ;
+}
+
+#testimonial-heading{
+    text-align: center;
+}
+
+#testimonial-year{
+    text-align: center;
+}
+
+#awards{
+    background-color: blue;
+}
+
+#footer{
+    background-color: red;
+}
+
